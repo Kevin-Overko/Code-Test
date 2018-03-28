@@ -61,7 +61,7 @@ public class Collection {
 		map.put(4, "sally");
 		map.put(5, "amanda");
 		
-		System.out.println(map.toString());
+		System.out.println(map.containsKey(0));
 		
 	}
 }
