@@ -31,7 +31,7 @@ public class Collection {
 		Collections.sort(list1);
 		Collections.sort(list2);
 		
-		//combine the lists
+		//combine the lists 
 		List<Integer> list3 = new LinkedList<Integer>();
 		
 		//copy all of list one into list 3, then iterate through list 2 checking if list one contains the element
